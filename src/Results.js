@@ -1,5 +1,6 @@
 import React from "react";
 import Meaning from "./Meaning";
+
 export default function Results(props) {
   if (props.results) {
     return (
